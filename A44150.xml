@@ -1,0 +1,408 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all who desire satisfaction in the case of oathes shewing how far under the law it was lawful to swear, and how that in any case under the Gospel it is forbidden / by William Holgate.</title>
+            <author>Holgate, William, fl. 1683-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44150</idno>
+            <idno type="STC">Wing H2416</idno>
+            <idno type="STC">ESTC R10810</idno>
+            <idno type="EEBO-CITATION">12198954</idno>
+            <idno type="OCLC">ocm 12198954</idno>
+            <idno type="VID">56070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56070)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 763:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all who desire satisfaction in the case of oathes shewing how far under the law it was lawful to swear, and how that in any case under the Gospel it is forbidden / by William Holgate.</title>
+                  <author>Holgate, William, fl. 1683-1686.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Andrew Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1].</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ten commandments --  False witness.</term>
+               <term>Blasphemy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56070:1"/>
+            <pb facs="tcp:56070:1" rendition="simple:additions"/>
+            <p>To all who deſire SATISFACTION IN THE <hi>Caſe of Oathes,</hi> SHEWING How far under the <hi>LAW</hi> it was lawful To <hi>SWEAR;</hi> And how that in any caſe under the <hi>GOSPEL</hi> it is Forbidden.</p>
+            <p>By <hi>William Holgate.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Micah 6.8.</hi>
+               </bibl> The Lord hath ſhowed thee, O Man, what is good; and what doth the Lord require of thee, but to do juſtly, to love Mercy, and to walk humbly with thy God?</q>
+            <q>
+               <bibl>
+                  <hi>Acts 24.14.</hi>
+               </bibl> But this I confeſs unto thee, that after the way which they call Hereſie, ſo Worſhip I the God of my Fathers, believing all things which are written in the Law and the Prophets.</q>
+            <q>
+               <bibl>
+                  <hi>Prov. 20.28.</hi>
+               </bibl> Mercy and Truth preſerve the King, and his Throne is upholden by Mercy.</q>
+            <q>
+               <bibl>
+                  <hi>Iſa. 1.10.</hi>
+               </bibl> We to them that decree <g ref="char:V">Ʋ</g>nrighteous Decrees, and write grieviouſneſs, by a Law that they have preſcribed, &amp;c.</q>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>Andrew Sowle</hi> at the Sign of the Crooked-Billet in <hi>Holloway-Lane</hi> in <hi>Shoreditch,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:56070:2"/>
+            <pb n="3" facs="tcp:56070:2"/>
+            <head>To all who deſire Satisfaction in the. Caſe of Oathes.</head>
+            <p>WHilſt <hi>Iſrael</hi> ſtood in the Covenant with God, under the Diſpenſation of the Law given forth by <hi>Moſes</hi> his Servant, they were in ſome caſes allowed or commanded to <hi>Swear by the Lord their God,</hi> for per<g ref="char:EOLhyphen"/>forming ſome ſpecial thing to the Lord, thereby binding their Souls by an <hi>Oath,</hi> or for Confirmation of a matter, whereby Strife was to end; but they were not to ſware by any thing elſe, neither after the manner of the <hi>Aegyptians</hi> or <hi>Heathen:</hi> And if at any time they ſwore, it was to be done in Judgment, Mercy and Truth; for if they that were under that Diſ<g ref="char:EOLhyphen"/>penſation or Covenant, ſwore to do good, or to do evil unad<g ref="char:EOLhyphen"/>viſedly or raſhly, or if any heard the Voice of any ſuch Swearers, they, and thoſe that ſware to do good or to do evil, were to bear their Iniquity &amp; be ſhut out of the Congregation of the Lords People for that Treſpaſs, <hi>Lev.</hi> 5.1, 4 till the Prieſt had offered up a Sacrifice of Attonement for them, and they having know<g ref="char:EOLhyphen"/>ledge thereof, confeſſed they had ſinned in ſo Swearing.</p>
+            <p>Nevertheleſs, this <hi>Moſes,</hi> who gave forth the Law unto <hi>Iſrael,</hi> ſaid unto them, <hi>A Prophet ſhall the Lord your God raiſe unto you, of your Brethren, like unto me, HIM ſhall ye hear in all things, whatſoever he ſhall ſay unto you; And it ſhall come to paſs, that every Soul which ſhall not hear that Prophet, ſhall be deſtroyed from among the People,</hi> Acts 3.22, 23.</p>
+            <p>And this Prophet was <hi>Chriſt,</hi> the end of the Law, who ſaid, <hi>It is finiſhed,</hi> John 19.30. which the holy Voice, <hi>Mat.</hi> 17.5. ſaid, <hi>This is my beloved Son, in whom I am well pleaſed, hear ye him.</hi> And he commanded <hi>Iſrael,</hi> Mat. 5.37 <hi>Not to Swear at all, but that their</hi> Yea <hi>ſhould be</hi> Yea, <hi>and their</hi> Nay, Nay. And
+<pb n="4" facs="tcp:56070:3"/>the ſame Jeſus Chriſt ſaid, He was greater than <hi>Solomon, Mat.</hi> 12.41, 42. and was <hi>David</hi>'s Lord, who was and is to be heard and obey'd in all things; yea, whoſoever ſhall break one of the leaſt of his Commandments, and teach men ſo, ſhall be called leaſt in the Kingdom of Heaven; but whoſoever ſhall do and teach them, ſhall be called great in the Kingdom of Heaven, <hi>Matth.</hi> 15.19.</p>
+            <p>And his Diſciple <hi>James,</hi> in Confirmation of this Teſtimony, writing to the twelve Tribes, among ſeveral Godly Saluta<g ref="char:EOLhyphen"/>tions, Admonitions and Counſels, ſaid, <hi>James</hi> 5.12. <hi>But above all things my Brethren,</hi> SWEAR NOT, <hi>neither by Heaven, neither by Earth, neither by</hi> ANY OTHER OATH: As if he ſhould have ſaid, <q>Though you may fall into Temp<g ref="char:EOLhyphen"/>tations, yet I would have you avoid <hi>SWEARING,</hi> for there is no good comes by Swearing, becauſe it expreſly oppoſeth Chriſt Jeſus our Lord and Saviour his Command; and oppoſeth the very end of his Coming, which was to bring men unto Perfection and Unity with himſelf, as in the be<g ref="char:EOLhyphen"/>ginning, that ſo having a regard (through his Power) to their Words and Promiſes, they may become conformable to him in all things, rendering unto <hi>Caeſar</hi> the Things that are <hi>Caeſar</hi>'s, and unto <hi>God</hi> the things that are <hi>God</hi>'s, who keeping themſelves in the Love of God, look for the Mercy of our Lord Jeſus Chriſt unto eternal Life, knowing that in the World they ſhall have Trouble, but in Chriſt Jeſus Peace, which no man can take from them.</q>
+            </p>
+            <p>But if any ſhall ſay, <hi>It was</hi> Swearing <hi>in ordinary Communication, that Chriſt forbaid.</hi>
+            </p>
+            <p>Such may as well ſay, that the <hi>better Hope</hi> did no more than the Law of <hi>Moſes</hi> did, which forbad raſh and ordinary Communica<g ref="char:EOLhyphen"/>tion-Oathes, as is mentioned, <hi>Lev.</hi> 5.1.4. and confirmed by the Prophets of the Lord, <hi>Jer.</hi> 5 7. <hi>How ſhall I parden thee for this? Thy Children have forſaken me, and ſworn by them that are no gods;</hi> and <hi>Jer.</hi> 23.10 <hi>For becauſe of Swearing the Land mourneth;</hi> Hoſ. 4.2. <hi>By Swearing, and Lying, and Killing, and Stealing, and committing A<g ref="char:EOLhyphen"/>dultery, they break forth, and Blood toucheth Blood; therefore ſhall the Land Mourn:</hi> Zach. 5.3. <hi>Then ſaid he unto me, This is the Curſe that goeth forth over the face of the whole Earth; for every one that
+<pb n="5" facs="tcp:56070:3"/>Stealeth ſhall be cut off, as on this ſide; and every one that Sweareth ſhall be cut off, as on that ſide, according to it.</hi> Which Texts ſuf<g ref="char:EOLhyphen"/>ficiently prove, that under the Diſpenſation of the Law of <hi>Moſes,</hi> all ordinary Communication-Oathes were forbidden; ſo it is hoped upon a ſerious and weighty Conſideration of theſe Texts, <hi>Chriſtians,</hi> or ſuch as would be eſteemed Chriſtians, will not oppoſe the plain Command of Chriſt Jeſus our Saviour, or have ſo low eſteem of his Doctrine, who is the alone Saviour, as to alledge or ſay, That he did no more than <hi>Moſes</hi> did under the Law, leſt it be ſaid, That <hi>Chriſtians</hi> have changed their glory for that which doth not profit, and ſo bring a Reproach upon Chriſtianity; for as it was the glory of the <hi>Jews</hi> under the Law not to <hi>Forſwear,</hi> neither <hi>Swear vainly,</hi> ſo it is and always was the glory and perfection of true Chriſtians not to <hi>Swear at all,</hi> as may be proved by numerous Teſtimonies of the Antient Chriſtians, whoſe Anſwer to ſuch as perſecuted them, and required them to Swear, was, <hi>They were Chriſtians, and could not deny Chriſt nor his Doctrine.</hi> A few Teſtimonies are here recited for the Satisfaction of the honeſt hearted Enquirer in this Matter.</p>
+            <p n="1">1. And firſt, <hi>Polycarpus,</hi> who was <hi>John</hi>'s Diſciple (who wrote the <hi>Revelations</hi>) and Biſhop in <hi>Smirna,</hi> about <hi>Anno</hi> 162. denyed all Oathes, and ſaid (when examined before the Proconſul of <hi>Smirna</hi>) <q>That he was a Chriſtian, and was ready to ſhew forth the Doctrine of Chriſtianity, if the Governour deſired the ſame.</q> Who for refuſing to Swear was committed to the Flames, being eighty ſix years of Age; <hi>Euſeb. lib.</hi> 4. <hi>ch.</hi> 15.</p>
+            <p n="2">2. <hi>Baſilides,</hi> a Souldier, and of Authority in the <hi>Roman</hi> hoſt, <hi>Anno Chr.</hi> 205. refuſed to ſwear in a matter concerning his Fellow-Souldier, affirming, <hi>He was a Chriſtian.</hi>
+            </p>
+            <p n="3">3. <hi>Ambroſe,</hi> Biſhop of <hi>Milan,</hi> upon <hi>Pſal.</hi> 110. <q>Do not imitate him in Swearing, whom you cannot imitate in fol<g ref="char:EOLhyphen"/>lowing; therefore Swear not; for the Goſpel-Truth doth not receive an Oath, ſith every faithful Speech is for an Oath; and what is more, is from the evil One.</q>
+            </p>
+            <p n="4">4. <hi>Jerom,</hi> upon <hi>Mat.</hi> 5.34. <hi>James</hi> 5.12. ſaith, <q>The great
+<pb n="6" facs="tcp:56070:4"/>Evangeliſt admits not of an Oath, ſince every true Saying is equal thereunto, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p n="5">5. <hi>Chryſoſtom</hi> (about <hi>Anno</hi> 399.) blameth them greatly that brought forth a Book to ſwear upon; ſaying, <q>It is a ſin to Swear well, and not lawful to ſwear in a juſt or unjuſt thing;</q> With much more againſt Swearing.</p>
+            <p n="6">6. <hi>Theophilus,</hi> an Antient Father of the Church, ſaith, <q>Learn hence, that under the Law it was not evil for one to Swear, but ſince the coming of Chriſt, it is Evil, as is Cir<g ref="char:EOLhyphen"/>cumciſion, and in ſum, what-ever is Jewiſh.</q>
+            </p>
+            <p n="7">7. <hi>Ambroſe,</hi> on <hi>Mat</hi> 5. <q>Therefore the Lord, who came to teach the little Ones, to inſpire Novices, to confirm the Perfect, ſaith in the Goſpel, <hi>Ye muſt not Swear at all;</hi> he ſpoke not only to the Apoſtles, but to the Multitude; for he would not have thee to Swear, leſt thou ſhouldſt Forſwear.</q>
+            </p>
+            <p n="8">8. <hi>Cyprian,</hi> (about 249.) a famous Father in his day, and faithful Martyr, <hi>de Mortalit.</hi> 
+               <q>It is unlawful for any man to compel another to take an Oath.</q>
+            </p>
+            <p n="9">9. <hi>Hiliary</hi> (about 305.) on <hi>Mat.</hi> 5. a Father very famous in the days of <hi>Conſtantine;</hi> 
+               <q>The Law ſet a Penalty for <hi>Perjury,</hi> but Faith doth remove the Cuſtom of an Oath, making the buſineſs of our Life to be determin'd in Truth, and laying aſide the affecting to deceive, that the buſineſs of deceiving might be apparent between <hi>[It is]</hi> and <hi>[It is Not]</hi> and what is more, is all of Evil.</q>
+            </p>
+            <p n="10">10. <hi>Gregory Nyſſenus,</hi> Brother to <hi>Baſil,</hi> his Works are famous, ſaid, <q>He who by <hi>Moſes</hi> eſtabliſhed the beginning of the Law, by himſelf fulfilled all the Law and the Prophets; who taking away Anger, aboliſhed Killing alſo, and together with Luſt took away Adultery; he alſo caſts out of mens Lives accurſed <hi>Perjuries,</hi> whilſt by the Prohibition of an Oath, he hath put in his, ſith, as it were, to ſecurity, commanding not to Swear at all.</q>
+            </p>
+            <p n="11">11. <hi>Iſidorus Peluſiota</hi> (who as is ſaid, that on Earth he lived the Life of an Angel) writes, <hi>Epiſt.</hi> 155. <hi>lib.</hi> 1. <q>If thou art of our Flock, and art ordered under a good Shepherd, deny the Nature of wild Beaſts, and obey his Voice that forbiddeth to
+<pb n="7" facs="tcp:56070:4"/>Swear at all, <hi>&amp;c.</hi> Moreover, not to Swear, is not to require an Oath of another: If a man ſpeaks Truth uſually, he will always ſpeak Truth, without an Oath; but if he be a Lyar, he will Lye, though he Swear, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p n="12">12. <hi>Auguſtine,</hi> on <hi>Mat.</hi> 5 (about <hi>Anno</hi> 430.) <q>It was the Righteouſneſs of the Phariſees not to forſwear; this he con<g ref="char:EOLhyphen"/>firmeth, who forbiddeth to ſwear, which belongs to the Righteouſneſs of the Kingdom of Heaven; for as he that doth not ſpeak cannot ſpeak a Lye, ſo he cannot Forſwear which doth not Swear. That an Oath is not among good things, but among evil things, and uſed for the Infirmity of others, which is evil; from which we pray, that we may be delivered.</q>
+            </p>
+            <p n="13">13. <hi>Chromatius,</hi> a Biſhop of <hi>Aquileia,</hi> on <hi>Mat.</hi> 5. <q>
+                  <hi>But I ſay unto you, Swear not at all.</hi> The Law (ſaith he) given by <hi>Moſes</hi> received a growth, proficiency or perfection by the Grace of the Doctrine of the Goſpel. In the Law it was commanded, not to <hi>Forſwear,</hi> but in the Goſpel not to <hi>Swear;</hi> which very thing heretofore the holy Ghoſt did premeditate, that <hi>Solomon</hi> ſhould command or teach, ſaying, <hi>Let not thy Mouth uſe to Swear.</hi>
+               </q>
+            </p>
+            <p n="14">14. <hi>Caſſiodorus,</hi> on <hi>Pſal.</hi> 94. about the year 500. <q>Hence it is that men are forbidden to Swear, becauſe by their own Power they cannot perform their Promiſes.</q>
+            </p>
+            <p n="15">15. <hi>Iſidorus Hiſpaleuſis,</hi> who lived in St. <hi>Gregory</hi>'s time, about <hi>Anno</hi> 540. <q>Many are ſlow to believe, which are moved at the belief of the Word; but they do grievouſly offend, who compel them to Swear that ſpeak to them.</q>
+            </p>
+            <p n="16">16. <hi>Beda,</hi> about <hi>Anno</hi> 700. an Engliſh man, and ſtiled vene<g ref="char:EOLhyphen"/>rable; <q>
+                  <hi>Before all things, my Brethren, Swear not,</hi> ſaith, Be<g ref="char:EOLhyphen"/>cauſe he entirely deſires to draw out the deadly Poyſon of the Tongue in his Hearers; he forbad to detract or ſlander any man, or to judge his Neighbour, who forbad to grieve in Ad<g ref="char:EOLhyphen"/>verſities, which are open ſins; That he might take away the Cuſtom of Swearing, ſaid, <hi>I reſtrain you from the fault of Swearing, &amp;c.</hi>
+               </q>
+            </p>
+            <p n="17">17. <hi>Theophilact,</hi> Arch-Biſhop of the <hi>Bulgarins,</hi> about <hi>Anno</hi> 900. very famous, on <hi>Mat.</hi> 5. ſaith, <q>To Swear, or adjure more to
+<pb n="8" facs="tcp:56070:5"/>
+                  <hi>Yea</hi> or <hi>Nay,</hi> is of the Devil. Moreover, (ſaith he) if thou ſhouldſt ſay, That the Law of <hi>Moſes</hi> was Evil, becauſe it com<g ref="char:EOLhyphen"/>manded to Swear; learn, that then it was not Evil; but after Chriſt, it is Evil, as alſo to be circumciſed, and in brief, what<g ref="char:EOLhyphen"/>ſoever is Jewiſh.</q>
+            </p>
+            <p n="18">18. <hi>Alphonſus de Avendano,</hi> out of <hi>Cajetan</hi>'s Comment of <hi>Mat.</hi> 5. <q>The Lord perfected the command of not Forſwear<g ref="char:EOLhyphen"/>ing, by taking away the occaſion, becauſe without an Oath it is impoſſible to incur Perjury; for an Oath was not neceſſary by the firſt intention of Nature; for if men had continued in the Truth, they had not lyed; and becauſe Chriſt came that he might bring back men to the firſt Innocency, an Oath is not neceſſary; and therefore not good, nor of God, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p n="19">19. <hi>Thomas Aquinas, Gloſ.</hi> on <hi>Mat.</hi> 5. <hi>p.</hi> 22. <q>The Lord had taught before, Wrong is not to be done to our Neighbour, as in forbidding Anger, with Murder, Luſt, Adultery, put<g ref="char:EOLhyphen"/>ting away ones Wife; and now he teacheth, that we muſt abſtain from wronging of God, when he doth not only forbid Forſwearing as Evil, but alſo an Oath, as the occaſion of Evil, whence he ſaith, <hi>Hear thou again, &amp;c.</hi>
+               </q>
+            </p>
+            <p n="20">20. <hi>Euthymius Zagabonus</hi> on <hi>Mat.</hi> 5. p. 43. ſaith, <q>
+                  <hi>Again, ye have heard its ſaid to them of old time, Thou ſhalt not Forſwear,</hi> &amp;c. <hi>but I ſay unto you,</hi> SWEAR NOT AT ALL, <hi>&amp;c. Queſt.</hi> What then is to be done, if any require an Oath, yea, compel to Swear? <hi>Anſw.</hi> Let the fear of God be more forcible than this Compulſion or Neceſſity, and chuſe rather to ſuffer all things, than to tranſgreſs the Command, ſith in every Precept, force and violent danger will often meet with thee. And unleſs thou eſteemeſt the command of God every where more forcible, all things will depart from thee, void and unperformed.</q>
+            </p>
+            <p n="21">21. <hi>Jo. Major Hadingtoni,</hi> on <hi>Mat.</hi> 5. <q>Not to Swear at all, that Precept was given to the Diſciples (the Baſis) of the firſt Church.</q>
+            </p>
+            <p n="22">22. <hi>Peter Charron,</hi> Doctor of Law in <hi>Paris,</hi> in his Book of Wiſdom, chap. 37. <q>An <hi>Oath,</hi> what is it, but a ſymptom and ſhameful Mark of Diſtruſt, Infidelity, Ignorance, humane In<g ref="char:EOLhyphen"/>firmity,
+<pb n="9" facs="tcp:56070:5"/>both in him that requires it, and that gives it, that ordains it; alluding to Chriſt's words, <hi>What is more than Yea, Yea, and Nay, Nay, is of the Devil.</hi>
+               </q>
+            </p>
+            <p n="23">23. <hi>Oecumenius,</hi> a famous Greek writer, about <hi>Anno</hi> 1070. on <hi>James</hi> 5.12. writes thus: <q>But ſome will ſay, <hi>If any be forced to Swear, what muſt be done?</hi> We ſay, the fear of God ſhall be ſtronger than the force of him that compels, ſeeing that God ſought not a Sacrifice by Beaſts, but a broken Spirit, enflamed by the fire of Love. He forbids to Swear by God, becauſe of Perjury, by Heaven and other Oaths, that men ſhould not bring theſe things into the Honour of God; for all that did Swear, did Swear by the greater.</q>
+            </p>
+            <p n="24">24. <hi>Anſelmus,</hi> Biſhop of <hi>Canterbury,</hi> about <hi>Anno</hi> 1090. on <hi>Mat.</hi> 5. ſaith, <q>
+                  <hi>Moſes</hi> ſeeing that he could not take away Swearing, takes away Perjury; but the Lord removes them more perfectly from Perjury, when he forbids them to Swear at all.</q>
+            </p>
+            <p n="25">25. <hi>Michael Sadler,</hi> an eminent man, (called a Lord) was cruelly Tortur'd and put to Death by the Papiſts, under the Emperor of <hi>Germany,</hi> whoſe Brethren were alſo executed with the Sword, and his Wife and Siſters drowned for holding opinion, That men ſhould not Swear to or before the Magiſtrate. About <hi>Anno</hi> 1527.</p>
+            <p n="26">26. <hi>Bible Notes,</hi> upon <hi>Mat.</hi> 5. <q>Whatſoever you avouch, avouch it barely, and whatſoever you deny, deny it barely, without any more words.</q>
+            </p>
+            <p n="27">27. <hi>Beza</hi> on <hi>James</hi> 5. That which you have to ſay or affirm, <q>ſpeak it ſimply; and that you have to deny, deny it ſimply and flatly.</q>
+            </p>
+            <p n="28">28. <hi>H. Grotius</hi> (on <hi>Mat.</hi> 5.) a great and learned Man, excludes all Oathes, not only ſuch as are uſed in common Converſation, but ſuch as relate to Trade or pecuniary matters.</p>
+            <p n="29">29. Biſhop <hi>Sanderſon, de juram praelict.</hi> 5. <q>No need to forbid by a new Commandment things that of themſelves were always unlawful. So he, otherwiſe, We muſt read Chriſt's words thus; <hi>Ye have heard by them of old time, Thou ſhalt not Forſwear thy ſelf, his ſhalt perform unto the Lord thine Oathes;
+<pb n="10" facs="tcp:56070:6"/>but I ſay unto you, Swear not at all, except in ſome caſes.</hi> Which would be a wronging of Chriſt's words.</q>
+            </p>
+            <p>Now they that love Chriſt will keep his Commandments, that ſo they may have right to enter into the Joys of their Lord, where they will be preſerved from the Evil of that day, which will burn as an Oven, wherein all the Proud, yea, and all that do Wickedly, or tempt God's People (by laying of Snares to catch them in) ſhall be as Stubble; ſo that neither Root nor Branch ſhall be left to the proud, wicked oppreſſing violent Men, who have filled the Earth with Violence, and made the Land, by reaſon of Oathes to mourn. So it will be good for all in this the day of God's Power, to conſider what they are doing, and whoſe hands they are ſtrengthening; for it was the chief Prieſts that were the chiefeſt Inſtruments, by ſtirring up the Rulers (<hi>Luke</hi> 23.13, 18.) to murder the innocent; and ſo brought in<g ref="char:EOLhyphen"/>nocent Blood upon their Heads, and upon their Poſterity: Oh! therefore let every one that fears the Lord pray for the Peace of <hi>England,</hi> that the hearts of them that hate Peace may be con<g ref="char:EOLhyphen"/>verted, and inſtead of ſeeking to cauſe Diſcord, Hatred and Heart-burnings amongſt men, by encourageing Evil-doers, they may labour to preſerve Peace, by doing that which begets good Will amongſt men, and ſo be true Chriſtians, obeying Chriſt Jeſus, who commands to love Enemies, and to bleſs and not curſe, that ſo their Righteouſneſs may exceed that of the Scribes and Phariſees of this Age, or the <hi>Aegyptians</hi> of old, <hi>Exod.</hi> 1. who made <hi>Iſrael</hi> ſerve with Rigour, that their Lives were made bitter unto them with hard Bondage, though they neither impriſoned them, nor took their Goods or Cattel from them, for all their Cattel went out of <hi>Aegypt</hi> with them, as is recorded, <hi>Exod.</hi> 10.26. chap. 12.31, 32.</p>
+            <p>And we ſee by Experience, that an Oath will not bind ill mon, but is a Snare and a ſtumbling block to the upright hearted, who need no <hi>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aring Aſſeverations,</hi> to awe them into Truth-ſpeaking, knowing that what God diſpenſed with under the Law, he reſol<g ref="char:EOLhyphen"/>ved to remove under the Goſpel, and to bring things nearer to himſelf in Truth and Righteouſneſs, from Adultery in the Act,
+<pb n="11" facs="tcp:56070:6"/>to Adultery in the Thought, from Revenge to Sufferance, from <hi>true Swearing</hi> to <hi>No Swearing at all,</hi> whereby all abuſe of Oathes and Perjury comes to be removed with the Oathes themſelves, by working out of mens hearts that Fraud and Falſhood that brought them in, and implanting Evangelical Verity in Room thereof, which ſpeaketh the <hi>Truth,</hi> the <hi>whole Truth,</hi> and <hi>Nothing but the Truth</hi> to his Neighbour, and makes a like matter of Conſcience to tell a Lye, as to Forſwear. And it is known to Almighty God, and we deſire moſt heartily it may be known and believed by all, that we have no other end or inducement to this ſo general Refuſal we are found in through<g ref="char:EOLhyphen"/>out the Nation.</p>
+            <closer>
+               <dateline>Written, <date>the 3d Moneth, 1683.</date>
+               </dateline>
+               <signed>William Holgate.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>The Goſpel was preach't to</hi> Abraham <hi>before Oathes and Swear<g ref="char:EOLhyphen"/>ing were, and Chriſt in his Goſpel ends Swearing.</hi>
+               </p>
+            </postscript>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:56070:7"/>
+            <p>
+               <hi>BOOK</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Sold by, <hi>Andrew Soule</hi> at the Crooked <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in <hi>Holloway-Lane</hi> in <hi>Shareditch.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>NO <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſs, No Crown:</hi> Or a Diſcourſe ſhewing the Nature and Diſcipline of the holy Croſs of Chriſt. <hi>Price</hi> 2 <abbr>s.</abbr>
+               </item>
+               <item>
+                  <hi>England</hi>'s preſent Intereſt diſcovered, with honour to the Prince and ſa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y to the People. 5 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>A brief ſtate and examination of Liberty Spiritual. Price 2 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>An Addreſs to Proteſtants upon the preſent Conjuncture. 18 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>An Anſwer to a fooliſh Libel, called, <hi>The Quakers Opinions.</hi> 2 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>An Epiſtle, containing a ſolemn Farewell, <hi>&amp;c.</hi> Price <hi>One half Penny.</hi> All writ by <hi>William Penn.</hi>
+               </item>
+               <item>The Principles of Truth, or a dec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation of our Faith, who are called <hi>Quakers.</hi> Price bound 8 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Iſaac Pennington</hi>'s Works Price 12 <hi>
+                     <abbr>s</abbr>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Humphery Smith</hi>'s Books collected into one Volumn. 2 <hi>
+                     <abbr>s.</abbr>
+                  </hi> 6 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>The Collected Labours of <hi>Samuel Fiſher.</hi> 12 <hi>
+                     <abbr>s.</abbr>
+                  </hi>
+               </item>
+               <item>A Collection of the ſeveral Writings of <hi>William Baily.</hi> 5 <hi>
+                     <abbr>s.</abbr>
+                  </hi> 6 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>
+                  <hi>James <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>els</hi> Collection. 3 <hi>
+                     <abbr>s.</abbr>
+                  </hi> 4 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>A Collection of the Writings of that faithful Servant of the Lord <hi>Richard Hubborthorn.</hi> 2 <hi>
+                     <abbr>s.</abbr>
+                  </hi>
+               </item>
+               <item>The Redemption of the Seed; being the ſeveral Writings of <hi>Richard Moore.</hi> 6 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Dus Order of Law and Juſtice pleaded, againſt Irregular and Arbi<g ref="char:EOLhyphen"/>trary Proceedings. By</hi> George Whithead. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>The <hi>Quakers</hi> Religious Aſſemblies vindicates. <hi>One half Penny.</hi>
+               </item>
+               <item>A legal Examination of Abuſes of Law. Concerning 1. <hi>Forcible Entry;</hi> 2. <hi>Impriſonment without War<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap>, how contrary to Law;</hi> 3. <hi>Riots, Routs and <g ref="char:V">Ʋ</g>nlawful Aſſemblies;</hi> 4. <hi>The publick Peace and Breach of it;</hi> 5. <hi>Oppreſſion and D<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eſs by Goals and Goalers, and what Priviledge the Law allows to Priſoners.</hi> 3 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>The Priſoners Vindication, with a ſober Expoſtulation and Re<g ref="char:EOLhyphen"/>prehenſion of Perſecution. By <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Gratton.</hi> 2 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>God's Mercies teſtified unto, and Man's Cruelty witneſſed againſt; or, A faithful Demonſtration againſt the Cruelty of Perſecution. 1 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Plain Man wreſtling with God, for perfect Victory <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>ion over <hi>Eſau,</hi> the Rough and Cunning Man. By <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 2 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Path-way opened to the ſimple heart<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d, for the anſwer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and Objections, &amp;c. By <hi>S. Criſp.</hi> 1 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>England,</hi> and faithful Warning to the In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 2 <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Bi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ley. <hi>
+                     <abbr>d.</abbr>
+                  </hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
